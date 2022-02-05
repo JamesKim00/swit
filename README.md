@@ -4,7 +4,7 @@
 
 1. Benefits of the technology
 1. The downsides
-1. Why I personally think we should **not** implement blockchain
+1. Conclusion
 
 - Sources
 
