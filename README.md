@@ -143,7 +143,7 @@
 
 ### Compliance with HIPAA
 
-> ####Storing Patient Data on a Decentralized Network [(Source)](https://www.jdsupra.com/legalnews/3-ways-that-blockchain-can-help-the-1711780/)
+> #### Storing Patient Data on a Decentralized Network [(Source)](https://www.jdsupra.com/legalnews/3-ways-that-blockchain-can-help-the-1711780/)
 > HIPAA compliance may be an issue when storing private patient data on a decentralized network designed to be transparent.
 > Storage of private patient data on a public ledger presents a risk of sensitive data being exposed.
 > There is an argument that use of blockchain technology alone is not enough to ensure the requisite level of privacy.
